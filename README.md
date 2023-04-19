@@ -3,6 +3,8 @@
 - 🌱 I’m currently doing my undergraduation on Computer Science and Data Dcience
 - ❤️ Have successfully published my paper in a machine learning conference and also been published in a springer publication.
 - 💞️ I’m looking to collaborate on projects more on machine learning or deep learning side 
+- 💕 Have completed multiple certifications on data science from udemy, coursera and other e-learning sites.
+- 😘 Been a hardcore competitive programmer learning every single day.
 - 📫 You guys can reach me out through this mail akipersonal007@gmail.com
 
 <!---
