@@ -15,7 +15,7 @@
 </p>
 
 
-## 🧠 About Me
+## Things you need to know about ME!!!
 
 > “Don’t think twice, reuse your mind.”
 
@@ -29,7 +29,7 @@
 <br>
 
 
-## 💻 Tech Stack
+## My Work experience ( knowledge gained tools/frameworks/libraries )
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,kotlin,java" alt="skills" />
 <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,html,css" alt="skills" />
@@ -42,7 +42,7 @@
 <br>
 
 
-## 📊 Analytics & Insights
+## Analytics & Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akileshkr&show_icons=true&theme=tokyonight&hide_border=true" width="49%">
@@ -59,7 +59,7 @@
 
 
 
-## 🧠 Current Focus
+## Current Focus
 
 🧪 Research on LLMs, SLMs and Agents in this AI Era
 
