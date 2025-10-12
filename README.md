@@ -25,7 +25,7 @@
 
 - 🧩 Architecting **Tesseract** — self-evolving multi-agent capsule battles  
 - 🎨 Developing **AI PhotoBooth** — photorealistic compositing with SDXL-Lightning & IC-Light  
-- 🔬 Researching **Knowledge Distillation** for Small Language Models  
+- 🔬 Researching on LLMs, SLMs on agentic era
 - 🧪 Contributor to **pytest-smart-rerun** and open-source tooling at Sahaj  
 - 🧭 Exploring **LangGraph**, **Diffusers**, and **MLX optimization on Apple Silicon**
 
