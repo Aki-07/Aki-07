@@ -19,7 +19,7 @@
 
 > “Don’t think twice, reuse your mind.”
 
-👋 Hi, I’m **Akilesh KR** (aka **Aki**) — an **AI Systems Engineer** who loves transforming deep research into production-ready systems.
+👋 Hi, I’m **Akilesh KR** (aka **Aki**) an **AI Systems Engineer** who loves transforming deep research into production-ready systems.
 
 - 🧩 Architecting **Tesseract**: self-evolving multi-agent capsule battles  
 - 🎨 Developed **AI PhotoBooth**: photorealistic compositing with SDXL-Lightning & IC-Light  
