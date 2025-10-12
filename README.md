@@ -62,21 +62,15 @@
 ## 🧠 Current Focus
 
 🧪 Research on LLMs, SLMs and Agents in this AI Era
+
 🎨 Experimenting with **Flux & Realistic Vision** for image generation  
+
 ⚙️ Contributing to **open-source AI frameworks** and sharing research blogs
 
+<br>
 
 ## ☕ Connect With Me
 
-<p align="center">
-  <a href="mailto:akhileshkr.dev@gmail.com"><img src="https://img.shields.io/badge/Email-akhileshkr.dev%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/akhileshkr"><img src="https://img.shields.io/badge/LinkedIn-Akhilesh%20KR-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://x.com/akhileshkr"><img src="https://img.shields.io/badge/Twitter-%40akhileshkr-1DA1F2?style=for-the-badge&logo=x"></a>
-  <a href="https://medium.com/@akhileshkr"><img src="https://img.shields.io/badge/Medium-Read%20Articles-black?style=for-the-badge&logo=medium"></a>
-</p>
+  <a href="mailto:akipersonal007@gmail.com"><img src="https://img.shields.io/badge/Email-akipersonal007@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
----
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:000000&height=100&section=footer" />
-</p>
