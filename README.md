@@ -21,8 +21,8 @@
 
 👋 Hi, I’m **Akilesh KR** (aka **Aki**) — an **AI Systems Engineer** who loves transforming deep research into production-ready systems.
 
-- 🧩 Architecting **Tesseract** — self-evolving multi-agent capsule battles  
-- 🎨 Developing **AI PhotoBooth** — photorealistic compositing with SDXL-Lightning & IC-Light  
+- 🧩 Architecting **Tesseract**: self-evolving multi-agent capsule battles  
+- 🎨 Developed **AI PhotoBooth**: photorealistic compositing with SDXL-Lightning & IC-Light  
 - 🔬 Researching on LLMs, SLMs on agentic era
 - 🧪 Contributor to **pytest-smart-rerun** and open-source tooling at Sahaj  
 - 🧭 Exploring **LangGraph**, **Diffusers**, and **MLX optimization on Apple Silicon**
