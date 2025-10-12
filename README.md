@@ -9,13 +9,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/akhileshkr"><img src="https://komarev.com/ghpvc/?username=akhileshkr&color=00FFFF&style=for-the-badge" alt="profile views"/></a>
+  <a href="https://github.com/akhileshkr"><img src="https://komarev.com/ghpvc/?username=akileshkr&color=1088eb&style=for-the-badge" alt="profile views"/></a>
   <a href="https://medium.com/@akhileshkr"><img src="https://img.shields.io/badge/Read%20My%20AI%20Essays-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
-  <a href="https://linkedin.com/in/akhileshkr"><img src="https://img.shields.io/badge/LinkedIn-Akhilesh%20KR-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://x.com/akhileshkr"><img src="https://img.shields.io/badge/Twitter-%40akhileshkr-1DA1F2?style=for-the-badge&logo=x"></a>
+  <a href="https://linkedin.com/in/akhileshkr"><img src="https://img.shields.io/badge/LinkedIn-Akilesh%20KR-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
----
 
 ## 🧠 About Me
 
@@ -28,34 +26,21 @@
 - 🔬 Researching on LLMs, SLMs on agentic era
 - 🧪 Contributor to **pytest-smart-rerun** and open-source tooling at Sahaj  
 - 🧭 Exploring **LangGraph**, **Diffusers**, and **MLX optimization on Apple Silicon**
+<br>
 
----
 
-## 🧰 Tech Arsenal
+## 💻 Tech Stack
 
-| Domain | Tools & Frameworks |
-|--------|--------------------|
-| **AI / ML** | PyTorch • Diffusers • ONNX Runtime • LangChain • LangGraph |
-| **Backend** | Kotlin (Micronaut) • FastAPI • SQLAlchemy • Postgres • Redis |
-| **Infra / DevOps** | Docker • EC2-GPU • Prometheus • Grafana • Kubernetes |
-| **Frontend** | Next.js • TypeScript • Tailwind • PrimeReact |
-| **Testing / CI** | Pytest • Jest • GitHub Actions • Testcontainers |
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,kotlin,java" alt="skills" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,html,css" alt="skills" />
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,sqlite,prisma,supabase" alt="skills" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,prometheus,grafana" alt="skills" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,jest" alt="skills" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,kotlin,fastapi,postgres,redis,docker,aws,typescript,nextjs,tailwind,githubactions" />
-</p>
+</div>
 
----
+<br>
 
-## 🚀 Featured Projects
-
-| 🧩 Project | 🌍 Description | ⚙️ Stack |
-|-------------|----------------|-----------|
-
-| [**Tesseract**](https://github.com/akhileshkr/tesseract) | Self-evolving **multi-agent platform** (attacker vs defender LoRAs). | FastAPI • Next.js • Docker MCP • Cerebras |
-| [**pytest-smart-rerun**](https://pypi.org/project/pytest-smart-rerun) | Pytest plugin that **detects and re-runs flaky tests intelligently**. | Python • Pytest |
-
----
 
 ## 📊 Analytics & Insights
 
@@ -72,11 +57,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=akhileshkr&theme=algolia&row=1&no-bg=true&no-frame=true" width="100%">
 </p>
 
----
+
 
 ## 🧠 Current Focus
 
-🧪 Exploring **MiniLM-style distillation** for compact LLMs  
+🧪 Research on LLMs, SLMs and Agents in this AI Era
 🎨 Experimenting with **Flux & Realistic Vision** for image generation  
 ⚙️ Contributing to **open-source AI frameworks** and sharing research blogs
 
