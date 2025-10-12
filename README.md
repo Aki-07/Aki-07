@@ -5,13 +5,13 @@
 
 <h1 align="center">Hey there, I'm <span style="color:#00FFFF">Aki 👋</span></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI+Systems+Engineer+%7C+OSS+Contributor;Building+GraphCache+%F0%9F%A7%A9+and+Tesseract+%F0%9F%9A%80;Turning+research+into+real+AI+systems+%E2%9A%99%EF%B8%8F;Learning+Deep+Diffusion+and+LLM+Distillation" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI+Systems+Engineer+%7C+OSS+Contributor;Turning+research+into+real+AI+systems+%E2%9A%99%EF%B8%8F;Learning+Deep+Diffusion+and+LLM+Distillation" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/akhileshkr"><img src="https://komarev.com/ghpvc/?username=akileshkr&color=1088eb&style=for-the-badge" alt="profile views"/></a>
   <a href="https://medium.com/@akhileshkr"><img src="https://img.shields.io/badge/Read%20My%20AI%20Essays-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
-  <a href="https://linkedin.com/in/akhileshkr"><img src="https://img.shields.io/badge/LinkedIn-Akilesh%20KR-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="[https://linkedin.com/in/akhileshkr](https://www.linkedin.com/in/akileshkr/)"><img src="https://img.shields.io/badge/LinkedIn-Akilesh%20KR-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
 
