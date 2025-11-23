@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/akhileshkr"><img src="https://komarev.com/ghpvc/?username=akileshkr&color=1088eb&style=for-the-badge" alt="profile views"/></a>
-  <a href="https://medium.com/@akhileshkr"><img src="https://img.shields.io/badge/Read%20My%20AI%20Essays-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://medium.com/@akileshramesh2003"><img src="https://img.shields.io/badge/Read%20My%20AI%20Essays-000000?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="[https://linkedin.com/in/akhileshkr](https://www.linkedin.com/in/akileshkr/)"><img src="https://img.shields.io/badge/LinkedIn-Akilesh%20KR-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
 
