@@ -24,7 +24,7 @@
 - 🧩 Architecting **Tesseract**: self-evolving multi-agent capsule battles  
 - 🎨 Developed **AI PhotoBooth**: photorealistic compositing with SDXL-Lightning & IC-Light  
 - 🔬 Researching on LLMs, SLMs on agentic era
-- 🧪 Contributor to **pytest-smart-rerun** 
+- 🧪 Contributed on multiple open source repo(s) (transformers, neomjs, Surfsense )
 - 🧭 Exploring **LangGraph**, **Diffusers**, and **MLX optimization on Apple Silicon**
 <br>
 
